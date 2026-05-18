@@ -421,8 +421,8 @@ Description: גלו עולם של קינוחים שמתחשק — עוגות מ�
 - צור קשר
 
 ### יצירת קשר
-- [business_email]
-- [business_phone]
+- mishelkin128@gmail.com
+- 0546205944
 - [business_address]
 
 #### שעות פעילות
@@ -929,8 +929,8 @@ Description: נהלו את עסק הקינוחים שלכם בקלות — עד�
 - צור קשר
 
 ### יצירת קשר
-- [business_email]
-- [business_phone]
+- mishelkin128@gmail.com
+- 0546205944
 - [business_address]
 
 #### שעות פעילות
@@ -1269,7 +1269,7 @@ Description: הכירו את הלב הפועם מאחורי Desserts — תשו�
 
 
 
-“
+"
 
 
 הטארט הפירותי שהזמנתי לאירוע המשפחתי היה פשוט מדהים — כל שכבה הייתה מושלמת, הקרם עדין, הפירות טריים, והמראה היה כמו יצירת אמנות. כולם ביקשו לדעת מאיפה הבאתי אותו.
@@ -1288,7 +1288,7 @@ Description: הכירו את הלב הפועם מאחורי Desserts — תשו�
 
 
 
-“
+"
 
 
 הצגת הקינוחים הייתה מרשימה לא פחות מהטעם עצמו. כל פריט הגיע ארוז בצורה כל כך יפה שהיה לי קשה לאכול אותו. הבראוניז הייתה עשירה, שוקולדית ונמסה בפה — בדיוק כמו שקינוח טוב צריך להיות.
@@ -1307,7 +1307,7 @@ Description: הכירו את הלב הפועם מאחורי Desserts — תשו�
 
 
 
-“
+"
 
 
 הזמנתי עוגת יום הולדת לבתי ולא ציפיתי לקבל משהו כל כך מיוחד. החוויה מרגע ההזמנה ועד הרגע שפרחנו את הנרות הייתה מושלמת. הטעם, העיצוב, הרגש — הכול יחד יצר זיכרון שנשאר.
@@ -1377,8 +1377,8 @@ Description: הכירו את הלב הפועם מאחורי Desserts — תשו�
 - צור קשר
 
 ### יצירת קשר
-- [business_email]
-- [business_phone]
+- mishelkin128@gmail.com
+- 0546205944
 - [business_address]
 
 #### שעות פעילות
@@ -1840,8 +1840,8 @@ Description: יש לכם שאלה, הזמנה מיוחדת או סתם חשק ל
 - צור קשר
 
 ### יצירת קשר
-- [business_email]
-- [business_phone]
+- mishelkin128@gmail.com
+- 0546205944
 - [business_address]
 
 #### שעות פעילות
@@ -2012,8 +2012,8 @@ Description: המוצרים שלנו - Desserts
 - צור קשר
 
 ### יצירת קשר
-- [business_email]
-- [business_phone]
+- mishelkin128@gmail.com
+- 0546205944
 - [business_address]
 
 #### שעות פעילות
@@ -2183,8 +2183,8 @@ Description: עגלת הקניות שלך
 - צור קשר
 
 ### יצירת קשר
-- [business_email]
-- [business_phone]
+- mishelkin128@gmail.com
+- 0546205944
 - [business_address]
 
 #### שעות פעילות
@@ -2537,8 +2537,8 @@ Description: תשלום
 - צור קשר
 
 ### יצירת קשר
-- [business_email]
-- [business_phone]
+- mishelkin128@gmail.com
+- 0546205944
 - [business_address]
 
 #### שעות פעילות
@@ -2715,8 +2715,8 @@ Description: התחברות לקוחות
 - צור קשר
 
 ### יצירת קשר
-- [business_email]
-- [business_phone]
+- mishelkin128@gmail.com
+- 0546205944
 - [business_address]
 
 #### שעות פעילות
@@ -3048,8 +3048,8 @@ Description: החשבון שלי
 - צור קשר
 
 ### יצירת קשר
-- [business_email]
-- [business_phone]
+- mishelkin128@gmail.com
+- 0546205944
 - [business_address]
 
 #### שעות פעילות
@@ -3243,8 +3243,8 @@ Description: תודה על ההזמנה
 - צור קשר
 
 ### יצירת קשר
-- [business_email]
-- [business_phone]
+- mishelkin128@gmail.com
+- 0546205944
 - [business_address]
 
 #### שעות פעילות
@@ -3443,10 +3443,10 @@ Desserts מחויבת לשביעות רצון לקוחותיה. מדיניות �
 לביצוע החזרה או לשאלות:
 
 
-אימייל: [business_email]
+אימייל: mishelkin128@gmail.com
 
 
-טלפון: [business_phone]
+טלפון: 0546205944
 
 
 כתובת: [business_address]
@@ -3467,8 +3467,8 @@ Desserts מחויבת לשביעות רצון לקוחותיה. מדיניות �
 - צור קשר
 
 ### יצירת קשר
-- [business_email]
-- [business_phone]
+- mishelkin128@gmail.com
+- 0546205944
 - [business_address]
 
 #### שעות פעילות
@@ -3640,8 +3640,8 @@ Description: פרטי המוצר - Desserts
 - צור קשר
 
 ### יצירת קשר
-- [business_email]
-- [business_phone]
+- mishelkin128@gmail.com
+- 0546205944
 - [business_address]
 
 #### שעות פעילות
@@ -3837,8 +3837,8 @@ Description: מוצרים - Desserts
 - צור קשר
 
 ### יצירת קשר
-- [business_email]
-- [business_phone]
+- mishelkin128@gmail.com
+- 0546205944
 - [business_address]
 
 #### שעות פעילות
@@ -4048,9 +4048,9 @@ Desserts ("החברה", "אנו", "שלנו") מחויבת להגן על פרט�
 
 - חברה: Desserts
 
-- אימייל: [business_email]
+- אימייל: mishelkin128@gmail.com
 
-- טלפון: [business_phone]
+- טלפון: 0546205944
 
 - כתובת: [business_address]
 
@@ -4077,8 +4077,8 @@ Desserts ("החברה", "אנו", "שלנו") מחויבת להגן על פרט�
 - צור קשר
 
 ### יצירת קשר
-- [business_email]
-- [business_phone]
+- mishelkin128@gmail.com
+- 0546205944
 - [business_address]
 
 #### שעות פעילות
@@ -4276,9 +4276,9 @@ Desserts מחויבת להנגיש את השירותים לכלל הציבור. 
 
 - חברה: Desserts
 
-- אימייל: [business_email]
+- אימייל: mishelkin128@gmail.com
 
-- טלפון: [business_phone]
+- טלפון: 0546205944
 
 
 
@@ -4306,8 +4306,8 @@ Desserts מחויבת להנגיש את השירותים לכלל הציבור. 
 - צור קשר
 
 ### יצירת קשר
-- [business_email]
-- [business_phone]
+- mishelkin128@gmail.com
+- 0546205944
 - [business_address]
 
 #### שעות פעילות
@@ -4528,9 +4528,9 @@ Desserts מספקת Desserts & Bakery דרך האתר. השירותים כפופ
 
 - חברה: Desserts
 
-- אימייל: [business_email]
+- אימייל: mishelkin128@gmail.com
 
-- טלפון: [business_phone]
+- טלפון: 0546205944
 
 - כתובת: [business_address]
 
@@ -4554,8 +4554,8 @@ Desserts מספקת Desserts & Bakery דרך האתר. השירותים כפופ
 - צור קשר
 
 ### יצירת קשר
-- [business_email]
-- [business_phone]
+- mishelkin128@gmail.com
+- 0546205944
 - [business_address]
 
 #### שעות פעילות
