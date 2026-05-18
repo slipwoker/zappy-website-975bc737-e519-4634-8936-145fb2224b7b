@@ -357,7 +357,7 @@
       <div class="search-results" id="mobile-search-results"></div>
     </div>
   
-<script>window.ZAPPY_WEBSITE_ID = "975bc737-e519-4634-8936-145fb2224b7b";window.ZAPPY_API_BASE = "https://api.zappy5.com";</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
+<script>window.ZAPPY_WEBSITE_ID = "975bc737-e519-4634-8936-145fb2224b7b";window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview') ? "https://api.zappy5.com" : "https://api.zappy5.com");</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
   <nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
     <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
@@ -855,10 +855,10 @@
 </script>
   
   <main id="main">
-    <section data-band-index="0" class="index-hero-section" data-layout-spec="בית-hero" dir="rtl" data-hero-type="fullscreen-scrim">
+    <section data-band-index="0" class="index-hero-section" data-layout-spec="בית-hero" dir="rtl" data-hero-type="fullscreen-scrim" id="index-hero-section" style="margin-top: -70px !important; padding-top: 70px !important;">
   <!-- Background Image -->
   <div class="index-hero-bg">
-    <img loading="eager" fetchpriority="high" data-hero-bg="true" data-placeholder="index-hero-image-1" data-context="Dreamy close-up of elegantly plated gourmet desserts — layered pastry with berry compote, delicate chocolate shards, edible flowers, and powdered sugar dusting. Shallow depth of field with warm golden highlights and deep berry-plum shadows in the background. Luxurious, romantic, editorial food photography style." width="1200" height="700" src="/assets/site-index-hero-image-1.webp" alt="קינוחים מעוצבים בסגנון פטיסרי יוקרתי">
+    <img loading="eager" fetchpriority="high" data-hero-bg="true" data-placeholder="index-hero-image-1" data-context="Dreamy close-up of elegantly plated gourmet desserts — layered pastry with berry compote, delicate chocolate shards, edible flowers, and powdered sugar dusting. Shallow depth of field with warm golden highlights and deep berry-plum shadows in the background. Luxurious, romantic, editorial food photography style." width="1200" height="700" src="/assets/site-index-hero-image-1.webp" alt="קינוחים מעוצבים בסגנון פטיסרי יוקרתי" data-hero-background="true" data-element-type="image" data-element-id="img-1779129246306-r3bbu7kqq">
   </div>
 
   <!-- Scrim Overlay -->
@@ -894,12 +894,12 @@
   <!-- Hero Content Overlay -->
   <div class="index-hero-content-wrap">
     <div class="index-hero-content">
-      <span class="index-hero-label">פטיסרי בוטיק · עבודת יד</span>
-      <h1 class="index-hero-h1">קינוחים שמתחשק<br>מהלב, לשולחן שלך</h1>
-      <h3 class="index-hero-subtitle">ממתקים גורמה עשויים ביד אוהבת — כל ביס הוא חוויה של פינוק אמיתי</h3>
+      <p><span class="index-hero-label">פטיסרי בוטיק · עבודת יד</span>
+      </p><h1 class="index-hero-h1" style="">קינוחים שמתחשק<br>מהלב, לשולחן שלך</h1>
+      <h3 class="index-hero-subtitle" style="">ממתקים גורמה עשויים ביד אוהבת — כל ביס הוא חוויה של פינוק אמיתי</h3>
       <div class="index-hero-ctas">
-        <a href="/contact" class="index-hero-btn-primary">צרו קשר לפרטים</a>
-        <a href="/about" class="index-hero-btn-secondary">הכירו את הבוטיק</a>
+        <a href="/contact" class="index-hero-btn-primary" style="color: rgb(0, 0, 0) !important; outline: medium;" data-element-type="button" data-element-id="btn-1779129246297-035wtjpuj" data-native-element="true">צרו קשר לפרטים</a>
+        <a href="/about" class="index-hero-btn-secondary" data-element-type="button" data-element-id="btn-1779129246297-5gr3xj9sf" data-native-element="true" style="outline: medium;">&nbsp;כירו את הבוטיק</a>
       </div>
     </div>
   </div>
