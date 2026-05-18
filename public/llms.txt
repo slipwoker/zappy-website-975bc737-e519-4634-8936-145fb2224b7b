@@ -1,0 +1,99 @@
+# Desserts — Generative Engine Optimization Map
+
+> A desserts business website where the owner wants full control over content management — including uploading images, setting prices, and editing all text. The focus is on showcasing sweet treats with a self-managed, easy-to-update platform.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+גלו עולם של קינוחים שמתחשק — עוגות מפנקות, מאפים טריים ומתוקים שמדברים לנשמה. כל ביס הוא חוויה שלא תשכחו. הזמינו עכשיו והתפנקו!
+
+### בקרת תוכן
+https://example.com/content-control
+נהלו את עסק הקינוחים שלכם בקלות — עדכנו תמונות, מחירים וטקסטים בלחיצה אחת. פלטפורמה גמישה שנבנתה במיוחד עבורכם לניהול עצמאי ומהיר.
+
+### אודות
+https://example.com/about
+הכירו את הלב הפועם מאחורי Desserts — תשוקה אמיתית לקינוחים שמתחשק, מסירות לאיכות וחלום שהפך למציאות מתוקה. גלו מי אנחנו ולמה כולם חוזרים אלינו.
+
+### צור קשר
+https://example.com/contact
+יש לכם שאלה, הזמנה מיוחדת או סתם חשק למשהו מתוק? צרו קשר עכשיו ונשמח לעזור! קינוחים שמתחשק מחכים לכם — אל תתנגדו לפינוק הזה.
+
+### Products
+https://example.com/products
+המוצרים שלנו - Desserts
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Desserts
+
+### Category
+https://example.com/category/:slug
+מוצרים - Desserts
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Desserts
+A desserts business website where the owner wants full control over content management — including uploading images, setting prices, and editing all text. The focus is on showcasing sweet treats with a self-managed, easy-to-update platform.
+
+## Target Audience
+- חובבי גורמה
+- משפחות מחפשות מתוקים
+
+## Industry
+Desserts & Bakery
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
