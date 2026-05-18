@@ -1,4 +1,4 @@
-# Desserts
+# M Desserts
 
 A desserts business website where the owner wants full control over content management — including uploading images, setting prices, and editing all text. The focus is on showcasing sweet treats with a self-managed, easy-to-update platform.
 
@@ -11,7 +11,7 @@ Source: https://example.com
 URL: https://example.com
 Description: גלו עולם של קינוחים שמתחשק — עוגות מפנקות, מאפים טריים ומתוקים שמדברים לנשמה. כל ביס הוא חוויה שלא תשכחו. הזמינו עכשיו והתפנקו!
 
-קינוחים שמתחשק — Desserts
+M Desserts
 
 
 
@@ -133,7 +133,7 @@ Description: גלו עולם של קינוחים שמתחשק — עוגות מ�
 
 פטיסרי בוטיק · עבודת יד
 
-# קינוחים שמתחשקמהלב, לשולחן שלך
+# M Desserts
 
 
 ### ממתקים גורמה עשויים ביד אוהבת — כל ביס הוא חוויה של פינוק אמיתי
@@ -447,7 +447,7 @@ Description: גלו עולם של קינוחים שמתחשק — עוגות מ�
 URL: https://example.com/content-control
 Description: נהלו את עסק הקינוחים שלכם בקלות — עדכנו תמונות, מחירים וטקסטים בלחיצה אחת. פלטפורמה גמישה שנבנתה במיוחד עבורכם לניהול עצמאי ומהיר.
 
-שליטה מלאה על התוכן שלך — Desserts
+M Desserts
 
 
 
@@ -955,7 +955,7 @@ Description: נהלו את עסק הקינוחים שלכם בקלות — עד�
 URL: https://example.com/about
 Description: הכירו את הלב הפועם מאחורי Desserts — תשוקה אמיתית לקינוחים שמתחשק, מסירות לאיכות וחלום שהפך למציאות מתוקה. גלו מי אנחנו ולמה כולם חוזרים אלינו.
 
-הסיפור המתוק שמאחורי כל קינוח — Desserts
+M Desserts
 
 
 
@@ -1403,7 +1403,7 @@ Description: הכירו את הלב הפועם מאחורי Desserts — תשו�
 URL: https://example.com/contact
 Description: יש לכם שאלה, הזמנה מיוחדת או סתם חשק למשהו מתוק? צרו קשר עכשיו ונשמח לעזור! קינוחים שמתחשק מחכים לכם — אל תתנגדו לפינוק הזה.
 
-דברו איתנו ותזמינו קינוחים שמתחשק — Desserts
+M Desserts
 
 
 
@@ -1863,7 +1863,7 @@ Description: יש לכם שאלה, הזמנה מיוחדת או סתם חשק ל
 URL: https://example.com/products
 Description: המוצרים שלנו - Desserts
 
-מוצרים - Desserts
+M Desserts
 
 
 
@@ -1964,7 +1964,7 @@ Description: המוצרים שלנו - Desserts
 
 
 
-# המוצרים שלנו
+# M Desserts
 
 
 
@@ -2058,7 +2058,7 @@ Description: המוצרים שלנו - Desserts
 URL: https://example.com/cart
 Description: עגלת הקניות שלך
 
-עגלת קניות - Desserts
+M Desserts
 
 
 
@@ -2159,7 +2159,7 @@ Description: עגלת הקניות שלך
 
 
 
-# עגלת הקניות שלך
+# M Desserts
 
 
 העגלה ריקה
@@ -2229,7 +2229,7 @@ Description: עגלת הקניות שלך
 URL: https://example.com/checkout
 Description: תשלום
 
-תשלום - Desserts
+M Desserts
 
 
 
@@ -2330,7 +2330,7 @@ Description: תשלום
 
 
 
-# תשלום
+# M Desserts
 
 
 
@@ -2583,7 +2583,7 @@ Description: תשלום
 URL: https://example.com/login
 Description: התחברות לקוחות
 
-התחברות - Desserts
+M Desserts
 
 
 
@@ -2684,7 +2684,7 @@ Description: התחברות לקוחות
 
 
 
-# התחברות לקוחות
+# M Desserts
 
 
 
@@ -2761,7 +2761,7 @@ Description: התחברות לקוחות
 URL: https://example.com/account
 Description: החשבון שלי
 
-החשבון שלי - Desserts
+M Desserts
 
 
 
@@ -2868,7 +2868,7 @@ Description: החשבון שלי
 
 
 
-# לא מחובר
+# M Desserts
 
 
 יש להתחבר כדי לצפות בחשבון
@@ -3094,7 +3094,7 @@ Description: החשבון שלי
 URL: https://example.com/order-success
 Description: תודה על ההזמנה
 
-ההזמנה התקבלה! - Desserts
+M Desserts
 
 
 
@@ -3199,7 +3199,7 @@ Description: תודה על ההזמנה
 
 
 
-# תודה על ההזמנה טוען פרטי הזמנה...
+# M Desserts
 
 
 אישור הזמנה נשלח לאימייל שלך
@@ -3289,7 +3289,7 @@ Description: תודה על ההזמנה
 URL: https://example.com/return-policy
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
-מדיניות החזרות - Desserts
+M Desserts
 
 
 
@@ -3391,7 +3391,7 @@ Description: מדיניות החזרת מוצרים - זכויותיכם להח�
 
 
 
-# מדיניות החזרת מוצרים
+# M Desserts
 
 
 עדכון אחרון: 18.5.2026
@@ -3513,7 +3513,7 @@ Desserts מחויבת לשביעות רצון לקוחותיה. מדיניות �
 URL: https://example.com/product/:slug
 Description: פרטי המוצר - Desserts
 
-פרטי המוצר - Desserts
+M Desserts
 
 
 
@@ -3686,7 +3686,7 @@ Description: פרטי המוצר - Desserts
 URL: https://example.com/category/:slug
 Description: מוצרים - Desserts
 
-מוצרים - Desserts
+M Desserts
 
 
 
@@ -3883,7 +3883,7 @@ Description: מוצרים - Desserts
 URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
-מדיניות פרטיות
+M Desserts
 
 
 
@@ -3942,7 +3942,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 
 
-# מדיניות פרטיות
+# M Desserts
 
 
 
@@ -4103,7 +4103,7 @@ Desserts ("החברה", "אנו", "שלנו") מחויבת להגן על פרט�
 URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
-הצהרת נגישות
+M Desserts
 
 
 
@@ -4162,7 +4162,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 
 
-# הצהרת נגישות
+# M Desserts
 
 
 
@@ -4332,7 +4332,7 @@ Desserts מחויבת להנגיש את השירותים לכלל הציבור. 
 URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
-תנאי שימוש
+M Desserts
 
 
 
@@ -4391,7 +4391,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 
 
-# תנאי שימוש
+# M Desserts
 
 
 

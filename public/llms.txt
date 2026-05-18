@@ -1,4 +1,4 @@
-# Desserts — Generative Engine Optimization Map
+# M Desserts — Generative Engine Optimization Map
 
 > A desserts business website where the owner wants full control over content management — including uploading images, setting prices, and editing all text. The focus is on showcasing sweet treats with a self-managed, easy-to-update platform.
 
@@ -78,7 +78,7 @@ _No products are currently configured._
 
 # Business Context (for LLM understanding)
 
-## About Desserts
+## About M Desserts
 A desserts business website where the owner wants full control over content management — including uploading images, setting prices, and editing all text. The focus is on showcasing sweet treats with a self-managed, easy-to-update platform.
 
 ## Target Audience
